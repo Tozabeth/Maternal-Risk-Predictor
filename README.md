@@ -6,9 +6,7 @@ A machine learning-powered web application that predicts the level of maternal h
 
 ## 🚀 Live Demo
 
-👉 [Click to Launch the App](https://your-deployment-link.com)  
-*(Replace with your Streamlit Cloud or deployment link)*
-
+👉 [Click to Launch the App](https://maternal-risk-predictor.streamlit.app/)  
 ---
 
 ## 📌 Project Overview
