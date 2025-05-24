@@ -1,0 +1,1001 @@
+severe_headache,blurred_vision,swelling_in_hands_or_face,vaginal_bleeding,severe_abdominal_pain,dizziness_or_fainting,reduced_fetal_movement,high_stress,antenatal_visits_last_month,nutrition_quality,risk_level
+No,Yes,Yes,No,No,No,No,Low,1,Good,Medium Risk
+No,No,Yes,No,No,No,Yes,Low,1,Average,Medium Risk
+No,No,No,No,No,No,No,High,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,2 or more,Average,Low Risk
+Yes,No,Yes,No,Yes,No,Yes,Low,1,Average,High Risk
+Yes,No,No,No,No,Yes,No,Low,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,Yes,No,No,Yes,Low,0,Average,High Risk
+No,Yes,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+No,No,No,Yes,Yes,No,No,Low,0,Average,High Risk
+Yes,Yes,Yes,No,Yes,Yes,No,Low,2 or more,Poor,High Risk
+No,No,Yes,No,No,No,No,High,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,1,Poor,High Risk
+Yes,Yes,Yes,No,No,No,No,Low,0,Poor,High Risk
+Yes,No,No,No,No,Yes,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,No,No,No,High,1,Poor,High Risk
+No,Yes,Yes,No,No,Yes,Yes,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,Yes,Yes,No,No,No,Low,1,Poor,High Risk
+Yes,Yes,No,No,No,No,Yes,Moderate,2 or more,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,No,No,No,High,2 or more,Good,Low Risk
+Yes,No,No,No,No,No,No,High,2 or more,Average,Low Risk
+No,No,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,No,No,Yes,No,No,Yes,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Low,2 or more,Average,Low Risk
+No,No,No,No,No,Yes,Yes,High,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,1,Good,Low Risk
+Yes,No,No,No,No,Yes,Yes,Low,2 or more,Average,Medium Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,Yes,No,No,Yes,No,No,Moderate,0,Average,High Risk
+No,Yes,No,No,No,No,No,Moderate,0,Good,High Risk
+No,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,Yes,No,No,No,No,High,0,Average,High Risk
+No,No,Yes,No,No,No,No,Low,0,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,2 or more,Good,Medium Risk
+No,Yes,Yes,Yes,No,No,Yes,Moderate,1,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,2 or more,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,0,Average,High Risk
+Yes,No,No,No,No,Yes,No,Moderate,0,Good,High Risk
+No,No,Yes,No,No,No,Yes,Low,1,Poor,High Risk
+Yes,No,No,No,No,No,No,High,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,0,Poor,High Risk
+No,Yes,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,Low,2 or more,Good,Low Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,Yes,No,High,0,Good,High Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,Yes,No,High,2 or more,Poor,High Risk
+No,No,No,No,No,Yes,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,No,No,No,Yes,No,No,Low,1,Good,Low Risk
+Yes,No,No,No,No,No,No,High,1,Good,Low Risk
+Yes,No,No,Yes,Yes,No,No,Low,0,Poor,High Risk
+Yes,No,No,Yes,No,No,No,High,1,Poor,High Risk
+No,No,No,No,No,No,No,High,1,Poor,High Risk
+No,No,Yes,No,No,No,No,High,1,Good,Low Risk
+Yes,No,No,Yes,No,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,Yes,No,No,No,No,Low,2 or more,Average,Medium Risk
+No,No,No,No,Yes,Yes,No,Moderate,0,Average,High Risk
+Yes,Yes,Yes,Yes,Yes,No,No,Low,1,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,Yes,Low,1,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+Yes,Yes,No,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,Yes,Yes,No,No,No,Yes,Moderate,1,Average,High Risk
+No,Yes,No,No,No,Yes,No,Low,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,No,No,No,No,No,Yes,Low,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,Yes,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+No,Yes,Yes,No,No,Yes,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,Yes,No,Moderate,1,Average,Low Risk
+No,No,No,No,Yes,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,Yes,No,No,Moderate,2 or more,Average,Medium Risk
+No,Yes,No,Yes,No,Yes,No,Moderate,1,Good,Medium Risk
+No,No,No,No,No,No,No,Low,0,Poor,High Risk
+No,Yes,Yes,No,Yes,Yes,Yes,Low,2 or more,Average,High Risk
+Yes,No,No,No,No,Yes,No,Low,2 or more,Average,Medium Risk
+No,No,No,No,No,Yes,No,High,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Low,2 or more,Average,Low Risk
+No,Yes,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Moderate,2 or more,Good,Low Risk
+No,Yes,No,No,Yes,No,Yes,High,0,Poor,High Risk
+No,Yes,No,No,Yes,No,No,Low,0,Poor,High Risk
+Yes,No,No,Yes,No,No,Yes,Low,1,Good,Medium Risk
+Yes,No,Yes,No,Yes,Yes,No,High,1,Average,High Risk
+Yes,Yes,No,Yes,No,No,No,Low,2 or more,Average,Medium Risk
+No,No,No,No,No,No,No,Low,2 or more,Average,Low Risk
+No,No,Yes,No,No,No,No,High,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,Yes,Low,2 or more,Poor,High Risk
+Yes,Yes,Yes,No,No,Yes,Yes,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,0,Poor,High Risk
+No,No,No,Yes,Yes,Yes,Yes,Low,1,Good,High Risk
+Yes,No,Yes,No,No,No,Yes,High,1,Poor,High Risk
+Yes,Yes,No,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,No,Moderate,1,Good,Medium Risk
+Yes,Yes,Yes,No,No,No,No,High,1,Average,Medium Risk
+No,Yes,Yes,No,Yes,No,No,Moderate,2 or more,Average,Medium Risk
+No,No,No,Yes,Yes,No,No,Low,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,No,No,High,0,Average,High Risk
+No,Yes,No,No,No,No,No,High,1,Average,Low Risk
+Yes,No,No,Yes,No,No,No,Low,0,Good,High Risk
+No,No,Yes,No,Yes,No,No,Moderate,0,Good,High Risk
+No,Yes,No,No,No,No,No,Moderate,1,Good,Low Risk
+No,No,No,No,No,No,Yes,High,0,Good,High Risk
+No,No,No,No,No,No,Yes,Low,1,Average,Low Risk
+No,No,No,Yes,No,Yes,Yes,Moderate,0,Average,High Risk
+Yes,No,No,No,No,No,No,High,1,Good,Low Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,0,Good,High Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+No,No,Yes,Yes,No,No,No,Low,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,Yes,Low,2 or more,Average,Medium Risk
+No,No,No,No,Yes,No,No,High,0,Good,High Risk
+No,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,Yes,No,No,No,Yes,No,Moderate,2 or more,Average,Medium Risk
+No,Yes,No,No,No,Yes,Yes,Low,1,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,1,Average,Low Risk
+No,Yes,No,No,Yes,No,Yes,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,High,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Moderate,2 or more,Average,Low Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,Yes,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,High,0,Average,High Risk
+Yes,No,No,No,Yes,Yes,No,Low,1,Poor,High Risk
+No,No,No,No,Yes,No,Yes,Moderate,1,Good,Medium Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,No,No,No,No,No,High,2 or more,Average,Low Risk
+Yes,No,No,No,No,No,Yes,Moderate,0,Average,High Risk
+No,No,No,No,Yes,No,No,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Average,Low Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,Yes,No,Moderate,0,Average,High Risk
+No,No,Yes,No,Yes,No,No,Moderate,1,Average,Medium Risk
+Yes,No,Yes,No,Yes,No,No,Low,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,Yes,High,0,Poor,High Risk
+No,No,No,No,No,No,Yes,High,2 or more,Average,Low Risk
+No,No,Yes,No,No,No,Yes,Low,1,Poor,High Risk
+Yes,No,Yes,No,Yes,No,Yes,High,0,Poor,High Risk
+No,Yes,Yes,No,No,Yes,No,Moderate,1,Good,Medium Risk
+No,No,Yes,Yes,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,No,No,Yes,Low,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,Yes,Moderate,2 or more,Good,Low Risk
+No,Yes,No,Yes,Yes,Yes,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,Yes,No,Yes,No,Yes,No,Moderate,1,Good,High Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,No,No,No,No,No,High,0,Good,High Risk
+Yes,No,Yes,No,Yes,Yes,No,Moderate,1,Poor,High Risk
+Yes,Yes,No,No,No,No,Yes,Low,1,Poor,High Risk
+No,No,Yes,No,Yes,No,Yes,Low,0,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,2 or more,Poor,High Risk
+Yes,No,Yes,No,No,No,No,High,2 or more,Good,Medium Risk
+No,No,Yes,No,No,Yes,Yes,Low,1,Poor,High Risk
+Yes,No,No,No,No,Yes,No,Moderate,0,Poor,High Risk
+No,No,Yes,Yes,No,No,No,Low,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,No,High,0,Poor,High Risk
+No,Yes,No,No,No,Yes,Yes,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,Yes,Low,0,Average,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,0,Average,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,Yes,Yes,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,2 or more,Average,Low Risk
+Yes,Yes,No,No,Yes,No,Yes,Low,0,Average,High Risk
+No,No,No,No,No,No,No,High,0,Average,High Risk
+No,No,No,No,Yes,No,No,Moderate,0,Average,High Risk
+No,Yes,No,No,No,No,No,Low,2 or more,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,1,Good,Low Risk
+Yes,No,No,No,No,No,Yes,Moderate,1,Good,Medium Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,2 or more,Good,Medium Risk
+No,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,1,Good,Low Risk
+No,No,No,No,No,No,No,Low,0,Good,High Risk
+No,Yes,Yes,No,No,No,No,High,1,Good,Medium Risk
+No,No,No,No,No,No,Yes,Moderate,1,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,No,High,1,Average,Low Risk
+No,Yes,Yes,No,No,No,Yes,High,0,Average,High Risk
+No,No,No,No,No,No,No,Low,0,Good,High Risk
+Yes,Yes,Yes,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,No,No,Yes,No,No,Moderate,2 or more,Average,Medium Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,Yes,No,Yes,High,1,Good,Medium Risk
+Yes,No,No,No,No,No,No,Low,0,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,Yes,No,Yes,No,No,Low,1,Average,Medium Risk
+Yes,No,No,No,Yes,Yes,Yes,Moderate,0,Average,High Risk
+No,No,No,No,Yes,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,Yes,Low,1,Good,Low Risk
+No,Yes,Yes,No,No,No,No,Low,0,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,1,Poor,High Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+No,Yes,No,No,Yes,No,Yes,Moderate,1,Average,Medium Risk
+No,No,Yes,Yes,No,No,No,Moderate,1,Good,Medium Risk
+No,No,No,No,No,No,No,High,0,Good,High Risk
+No,No,Yes,No,No,Yes,Yes,High,1,Poor,High Risk
+No,No,No,No,No,No,No,High,2 or more,Poor,High Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+Yes,No,Yes,Yes,No,Yes,Yes,Low,0,Average,High Risk
+No,No,Yes,Yes,No,No,No,Low,2 or more,Poor,High Risk
+Yes,No,Yes,No,No,No,Yes,High,1,Good,Medium Risk
+Yes,No,No,No,No,Yes,No,High,1,Good,Medium Risk
+No,No,Yes,No,No,No,Yes,High,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,0,Good,High Risk
+No,No,Yes,No,No,Yes,No,High,1,Average,Medium Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+No,Yes,No,No,No,No,No,Low,1,Good,Low Risk
+No,Yes,No,Yes,No,No,Yes,Moderate,1,Average,Medium Risk
+Yes,No,No,No,Yes,No,No,Low,0,Average,High Risk
+No,No,No,No,No,Yes,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,Yes,No,No,Moderate,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,High,1,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,High,1,Average,Low Risk
+No,No,Yes,No,No,No,Yes,High,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,Yes,Yes,No,No,No,Yes,Moderate,0,Average,High Risk
+No,Yes,No,No,Yes,No,No,High,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,2 or more,Poor,High Risk
+No,No,Yes,No,No,No,Yes,High,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,No,High,2 or more,Poor,High Risk
+No,No,No,No,Yes,No,Yes,High,2 or more,Average,Medium Risk
+No,Yes,No,No,No,No,No,Low,0,Poor,High Risk
+No,Yes,No,No,No,Yes,Yes,High,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,Yes,No,No,No,Yes,No,Low,0,Poor,High Risk
+No,No,No,No,No,No,No,Low,2 or more,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+No,No,No,No,Yes,No,Yes,Low,0,Average,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+Yes,No,No,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,No,No,Yes,No,Yes,No,Low,0,Average,High Risk
+No,Yes,No,No,No,No,No,High,2 or more,Good,Low Risk
+No,Yes,No,Yes,No,No,No,Low,0,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,No,No,Yes,No,Yes,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+No,No,Yes,Yes,No,Yes,No,High,0,Average,High Risk
+No,No,No,No,No,No,Yes,Moderate,0,Average,High Risk
+No,Yes,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,Yes,No,No,No,No,No,High,1,Average,Low Risk
+No,Yes,No,No,No,Yes,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,Yes,No,No,Yes,No,No,Moderate,1,Poor,High Risk
+No,No,Yes,No,No,No,Yes,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Good,Low Risk
+No,No,No,No,No,Yes,No,Low,2 or more,Average,Low Risk
+Yes,Yes,Yes,No,Yes,No,No,Moderate,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,1,Good,Low Risk
+Yes,No,Yes,Yes,No,No,No,Moderate,2 or more,Average,Medium Risk
+No,Yes,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,Yes,No,Low,0,Good,High Risk
+Yes,Yes,No,No,No,Yes,No,High,0,Average,High Risk
+No,Yes,Yes,No,No,No,No,High,1,Poor,High Risk
+Yes,No,No,Yes,No,No,Yes,Moderate,2 or more,Average,Medium Risk
+Yes,Yes,Yes,No,Yes,Yes,No,Low,1,Average,High Risk
+No,No,Yes,No,No,Yes,No,Low,0,Average,High Risk
+No,No,No,No,No,Yes,No,Moderate,0,Average,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Good,Medium Risk
+No,Yes,Yes,Yes,No,Yes,No,High,2 or more,Good,High Risk
+No,Yes,Yes,No,Yes,No,No,Low,1,Good,Medium Risk
+Yes,Yes,Yes,Yes,No,No,Yes,Moderate,1,Good,High Risk
+No,No,Yes,No,No,No,No,Low,0,Good,High Risk
+Yes,No,Yes,No,No,Yes,No,Moderate,2 or more,Poor,High Risk
+Yes,Yes,No,No,Yes,No,No,Low,1,Poor,High Risk
+No,No,No,No,No,Yes,No,Moderate,0,Average,High Risk
+No,Yes,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,Yes,No,No,No,No,High,0,Average,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,No,Yes,No,Yes,No,No,High,0,Poor,High Risk
+No,No,Yes,No,No,No,No,High,0,Poor,High Risk
+No,No,No,Yes,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,High,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,No,No,Yes,No,No,Low,0,Average,High Risk
+No,No,No,Yes,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,No,High,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Good,Low Risk
+Yes,No,Yes,Yes,Yes,No,No,Moderate,1,Average,High Risk
+Yes,Yes,No,No,No,Yes,No,Moderate,2 or more,Average,Medium Risk
+Yes,Yes,No,No,No,No,Yes,High,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Low,0,Poor,High Risk
+No,Yes,No,Yes,No,No,No,Moderate,1,Good,Medium Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,Yes,Yes,Low,0,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,2 or more,Good,Low Risk
+No,Yes,No,No,Yes,Yes,No,Low,0,Average,High Risk
+No,No,Yes,No,No,Yes,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,2 or more,Average,Low Risk
+Yes,No,Yes,No,No,No,Yes,Moderate,1,Good,Medium Risk
+No,No,Yes,No,No,No,Yes,Low,1,Average,Medium Risk
+No,No,Yes,No,Yes,No,No,High,1,Average,Medium Risk
+Yes,Yes,No,No,No,Yes,No,High,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+Yes,No,Yes,No,Yes,No,No,Low,1,Poor,High Risk
+No,Yes,No,No,No,No,Yes,Low,2 or more,Average,Medium Risk
+No,No,Yes,No,No,No,Yes,Low,1,Good,Medium Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,High,2 or more,Average,Low Risk
+No,No,Yes,No,Yes,No,No,Low,1,Average,Medium Risk
+Yes,No,Yes,No,No,Yes,No,Moderate,0,Good,High Risk
+No,No,Yes,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,1,Good,Low Risk
+No,No,No,No,No,Yes,No,Moderate,2 or more,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,Yes,Yes,No,No,No,No,High,1,Good,Medium Risk
+No,No,No,No,No,No,Yes,Low,2 or more,Poor,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,Yes,Moderate,2 or more,Good,Low Risk
+Yes,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Low,0,Poor,High Risk
+No,No,Yes,Yes,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,No,Yes,No,High,0,Good,High Risk
+No,No,Yes,No,No,No,No,High,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,0,Good,High Risk
+No,No,Yes,No,No,No,No,High,0,Average,High Risk
+No,No,Yes,No,Yes,No,Yes,Moderate,2 or more,Average,Medium Risk
+No,Yes,No,No,No,No,No,Moderate,0,Good,High Risk
+No,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,High,1,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,No,Yes,No,Yes,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,Yes,Moderate,1,Good,Low Risk
+Yes,Yes,Yes,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,No,No,No,Yes,No,High,0,Average,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+Yes,Yes,No,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,Yes,No,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,1,Good,Low Risk
+Yes,Yes,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,Yes,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,Yes,Yes,No,No,Moderate,1,Good,Medium Risk
+Yes,No,No,No,No,No,No,Low,1,Poor,High Risk
+Yes,Yes,No,No,Yes,No,No,Moderate,1,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,0,Average,High Risk
+No,No,No,Yes,No,No,Yes,High,1,Average,Medium Risk
+No,No,No,No,No,Yes,No,Moderate,2 or more,Average,Low Risk
+No,No,Yes,Yes,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+Yes,No,Yes,No,No,No,No,Low,2 or more,Good,Medium Risk
+Yes,Yes,No,No,Yes,No,No,High,1,Poor,High Risk
+No,No,No,Yes,Yes,No,No,Low,1,Average,Medium Risk
+No,No,No,No,Yes,No,No,Moderate,0,Average,High Risk
+No,Yes,Yes,No,No,Yes,Yes,Moderate,1,Good,High Risk
+No,Yes,Yes,No,No,No,No,Low,0,Good,High Risk
+No,Yes,No,No,No,No,No,High,2 or more,Poor,High Risk
+No,No,Yes,No,Yes,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Low,1,Poor,High Risk
+No,Yes,Yes,No,Yes,No,No,High,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,No,No,No,Yes,No,No,Low,2 or more,Poor,High Risk
+Yes,Yes,Yes,Yes,Yes,No,No,Low,1,Average,High Risk
+No,Yes,Yes,Yes,No,No,No,Moderate,2 or more,Poor,High Risk
+No,Yes,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,Yes,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,0,Poor,High Risk
+Yes,No,Yes,No,Yes,No,No,High,0,Average,High Risk
+No,No,No,No,No,No,No,Low,1,Poor,High Risk
+Yes,No,No,Yes,No,No,No,Moderate,1,Average,Medium Risk
+No,Yes,No,No,Yes,No,Yes,Moderate,1,Poor,High Risk
+No,Yes,Yes,No,Yes,No,No,Moderate,2 or more,Average,Medium Risk
+No,No,No,Yes,No,No,No,Low,1,Average,Low Risk
+No,Yes,Yes,No,No,Yes,No,High,1,Poor,High Risk
+No,No,No,No,No,Yes,Yes,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+Yes,Yes,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,Yes,Yes,No,Yes,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,Yes,No,No,No,Moderate,0,Average,High Risk
+No,No,Yes,No,Yes,Yes,No,Low,1,Good,Medium Risk
+No,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+Yes,Yes,No,No,No,No,Yes,Low,0,Average,High Risk
+No,Yes,No,Yes,No,No,No,Moderate,0,Average,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,Yes,Low,1,Average,Low Risk
+No,Yes,Yes,No,No,No,No,Low,0,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,2 or more,Good,Low Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Moderate,0,Good,High Risk
+Yes,No,No,No,No,No,No,Low,0,Good,High Risk
+No,No,No,No,No,Yes,No,Moderate,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+Yes,No,Yes,No,No,Yes,No,Low,2 or more,Poor,High Risk
+Yes,Yes,No,No,Yes,No,No,Low,2 or more,Poor,High Risk
+No,Yes,Yes,No,No,No,No,High,0,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,No,Yes,No,No,No,Yes,Low,0,Poor,High Risk
+No,Yes,No,No,No,Yes,Yes,Low,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,Yes,No,No,No,No,Yes,Low,0,Poor,High Risk
+No,No,No,No,No,Yes,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Low,0,Average,High Risk
+No,Yes,Yes,No,No,Yes,No,Moderate,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Good,Low Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Average,Low Risk
+No,No,Yes,No,No,No,Yes,Moderate,0,Average,High Risk
+Yes,No,Yes,Yes,No,Yes,No,Low,1,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,Yes,No,No,No,No,No,High,2 or more,Good,Medium Risk
+No,No,Yes,No,Yes,No,Yes,High,0,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,Yes,No,No,Moderate,1,Good,Low Risk
+Yes,Yes,No,No,No,No,Yes,Low,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,Low,2 or more,Poor,High Risk
+No,Yes,No,No,No,Yes,No,High,0,Average,High Risk
+No,No,No,No,Yes,No,No,Low,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,Low,2 or more,Good,Low Risk
+No,Yes,Yes,No,No,No,Yes,Low,0,Good,High Risk
+Yes,No,Yes,No,Yes,No,No,High,1,Good,Medium Risk
+No,No,Yes,No,No,No,Yes,Moderate,1,Good,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+Yes,No,Yes,Yes,No,No,No,High,0,Average,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+Yes,No,No,No,No,Yes,No,High,1,Good,Medium Risk
+No,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,No,No,No,Yes,No,Low,2 or more,Good,Low Risk
+No,No,No,No,No,No,No,Moderate,1,Good,Low Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,Yes,Low,1,Good,Low Risk
+No,No,Yes,No,No,No,No,High,1,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,2 or more,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,0,Poor,High Risk
+No,Yes,No,No,No,No,No,Low,0,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,Yes,Yes,No,No,No,Yes,Moderate,2 or more,Good,Medium Risk
+No,No,No,No,No,No,Yes,Moderate,1,Good,Low Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,Yes,No,No,Moderate,0,Poor,High Risk
+Yes,No,No,Yes,No,No,No,High,1,Poor,High Risk
+No,No,No,Yes,No,No,No,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,No,High,0,Average,High Risk
+No,Yes,Yes,Yes,No,Yes,No,Low,2 or more,Average,High Risk
+No,No,Yes,No,No,No,No,Low,0,Poor,High Risk
+Yes,Yes,No,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,No,No,High,0,Average,High Risk
+No,No,No,No,No,No,Yes,Low,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,Low,2 or more,Average,Low Risk
+Yes,No,No,No,Yes,No,Yes,High,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,0,Good,High Risk
+No,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,Yes,Yes,High,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+No,No,No,Yes,Yes,No,Yes,Low,2 or more,Good,Medium Risk
+No,No,Yes,No,No,No,Yes,Moderate,0,Average,High Risk
+Yes,No,Yes,No,No,Yes,No,High,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,Yes,No,No,No,High,0,Poor,High Risk
+No,No,Yes,No,No,Yes,Yes,High,0,Average,High Risk
+No,No,No,Yes,No,No,No,High,1,Average,Low Risk
+No,No,No,No,Yes,No,No,Low,1,Poor,High Risk
+No,Yes,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,Yes,No,No,No,No,No,High,0,Poor,High Risk
+No,No,Yes,Yes,No,No,No,Low,2 or more,Average,Medium Risk
+No,No,No,No,No,No,No,Low,2 or more,Average,Low Risk
+No,Yes,No,Yes,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,Yes,No,Yes,Low,2 or more,Average,Medium Risk
+No,Yes,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Moderate,0,Good,High Risk
+No,Yes,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,Yes,Low,1,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,Yes,Moderate,1,Good,Medium Risk
+Yes,No,No,No,No,Yes,No,Moderate,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,1,Good,Medium Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,No,No,No,No,No,Low,2 or more,Poor,High Risk
+No,No,No,No,No,Yes,No,Low,0,Good,High Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,Yes,Moderate,1,Good,Medium Risk
+No,No,No,No,No,Yes,Yes,High,1,Average,Medium Risk
+No,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,Yes,No,Moderate,0,Average,High Risk
+Yes,No,Yes,No,No,No,No,Low,2 or more,Average,Medium Risk
+No,Yes,No,No,Yes,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,Yes,Yes,No,No,Low,2 or more,Average,Medium Risk
+No,No,No,No,No,Yes,Yes,Low,1,Poor,High Risk
+No,Yes,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,High,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,Yes,Yes,Low,1,Poor,High Risk
+Yes,No,Yes,Yes,Yes,Yes,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,Yes,No,Low,1,Poor,High Risk
+No,Yes,No,No,No,No,Yes,High,1,Average,Medium Risk
+No,No,Yes,No,No,Yes,No,Moderate,0,Good,High Risk
+No,No,Yes,No,No,No,No,High,2 or more,Poor,High Risk
+No,No,Yes,No,Yes,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,Yes,Moderate,1,Average,Low Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Moderate,1,Good,Low Risk
+Yes,No,No,No,No,Yes,No,Low,0,Poor,High Risk
+Yes,No,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,No,Yes,Yes,No,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,High,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,0,Good,High Risk
+Yes,Yes,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+Yes,No,Yes,Yes,No,No,Yes,Low,1,Average,High Risk
+Yes,No,Yes,No,Yes,No,No,Moderate,2 or more,Average,Medium Risk
+No,No,No,No,No,No,Yes,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,Yes,No,High,1,Average,Medium Risk
+No,No,Yes,No,No,No,No,High,2 or more,Average,Low Risk
+No,Yes,Yes,No,No,No,No,Low,2 or more,Good,Medium Risk
+No,No,No,No,Yes,No,No,High,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,0,Good,High Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,Yes,No,No,No,Yes,Yes,Moderate,1,Poor,High Risk
+No,No,Yes,No,No,No,Yes,Low,0,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,Yes,Yes,No,No,No,Yes,Low,2 or more,Average,Medium Risk
+No,Yes,No,No,No,Yes,No,Low,0,Average,High Risk
+Yes,Yes,No,No,No,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,High,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,Yes,Yes,No,No,Yes,No,Moderate,0,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,2 or more,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,0,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,1,Good,Low Risk
+Yes,Yes,No,No,No,Yes,No,Moderate,1,Good,Medium Risk
+Yes,No,Yes,No,No,No,No,Moderate,2 or more,Poor,High Risk
+Yes,No,No,No,Yes,No,Yes,Moderate,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Low,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,High,0,Poor,High Risk
+Yes,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,High,2 or more,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,High,1,Average,Low Risk
+No,No,Yes,No,No,No,Yes,Low,1,Average,Medium Risk
+Yes,Yes,No,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,Yes,No,No,No,No,High,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,No,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,No,No,No,Yes,No,Moderate,2 or more,Poor,High Risk
+Yes,No,Yes,No,No,No,No,High,0,Poor,High Risk
+Yes,Yes,Yes,No,No,Yes,No,Low,1,Average,High Risk
+No,No,No,No,No,No,Yes,Moderate,1,Average,Low Risk
+Yes,Yes,Yes,No,No,No,Yes,Low,1,Good,High Risk
+No,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+No,Yes,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Average,Low Risk
+Yes,No,No,No,No,Yes,No,Low,1,Average,Medium Risk
+No,No,Yes,No,Yes,No,No,Low,2 or more,Poor,High Risk
+No,No,Yes,No,No,No,No,High,2 or more,Good,Low Risk
+Yes,No,No,No,Yes,No,Yes,Low,0,Poor,High Risk
+No,No,Yes,No,No,No,Yes,Low,0,Good,High Risk
+No,No,Yes,Yes,No,No,No,Moderate,2 or more,Good,Medium Risk
+Yes,No,Yes,No,No,No,Yes,Low,2 or more,Average,Medium Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,No,High,0,Average,High Risk
+No,No,Yes,No,No,Yes,No,Moderate,0,Poor,High Risk
+Yes,No,No,No,No,Yes,Yes,High,2 or more,Average,Medium Risk
+Yes,Yes,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,Yes,Yes,No,No,Yes,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,Yes,Moderate,1,Average,Low Risk
+No,Yes,Yes,Yes,No,No,No,High,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Good,Low Risk
+Yes,Yes,No,No,No,No,No,High,0,Poor,High Risk
+Yes,No,Yes,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,No,No,Yes,No,No,Moderate,1,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,0,Average,High Risk
+No,No,Yes,No,No,Yes,No,Low,0,Poor,High Risk
+No,No,Yes,No,No,Yes,No,High,1,Average,Medium Risk
+Yes,No,No,Yes,Yes,Yes,No,Moderate,0,Poor,High Risk
+No,Yes,No,No,No,Yes,No,Low,2 or more,Poor,High Risk
+No,No,No,No,No,No,No,Low,2 or more,Good,Low Risk
+Yes,Yes,No,Yes,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,No,Yes,Yes,Low,1,Average,Medium Risk
+No,No,No,No,No,Yes,No,Low,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,2 or more,Average,Medium Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,Yes,No,No,Low,0,Poor,High Risk
+Yes,Yes,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+Yes,Yes,Yes,No,Yes,No,Yes,Low,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,0,Poor,High Risk
+No,No,Yes,No,No,No,Yes,High,1,Poor,High Risk
+No,Yes,No,Yes,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,1,Good,Low Risk
+No,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,Yes,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Good,Low Risk
+No,No,No,No,No,Yes,No,Low,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Moderate,1,Poor,High Risk
+No,No,Yes,Yes,No,No,No,Moderate,0,Poor,High Risk
+Yes,No,No,Yes,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,Yes,No,Yes,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+Yes,Yes,No,Yes,No,Yes,Yes,High,0,Average,High Risk
+Yes,No,Yes,No,No,No,Yes,Low,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+No,No,Yes,Yes,No,No,No,Moderate,0,Average,High Risk
+Yes,No,No,No,No,No,No,High,1,Average,Low Risk
+No,No,Yes,No,Yes,No,Yes,Moderate,0,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,0,Average,High Risk
+No,No,Yes,No,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,Yes,Yes,No,Yes,No,No,Moderate,0,Good,High Risk
+No,No,Yes,No,No,Yes,No,High,1,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,No,No,No,No,Yes,No,Low,0,Average,High Risk
+No,No,Yes,No,No,No,No,High,0,Average,High Risk
+Yes,No,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Good,Low Risk
+No,Yes,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+No,No,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,No,Yes,No,Yes,No,No,Moderate,1,Poor,High Risk
+Yes,No,No,No,Yes,No,No,Low,0,Poor,High Risk
+No,No,No,Yes,No,Yes,No,Low,0,Average,High Risk
+Yes,No,No,Yes,No,No,Yes,High,0,Good,High Risk
+No,Yes,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,No,No,No,Yes,No,High,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,0,Average,High Risk
+Yes,Yes,No,No,No,No,No,Moderate,0,Good,High Risk
+Yes,No,No,No,No,No,No,High,1,Average,Low Risk
+No,Yes,No,Yes,No,No,No,Moderate,1,Average,Medium Risk
+Yes,Yes,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,No,No,Yes,No,No,Low,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,No,No,No,No,No,High,2 or more,Average,Low Risk
+Yes,No,No,No,Yes,No,No,Moderate,2 or more,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Low,0,Good,High Risk
+Yes,No,No,No,No,No,No,Low,0,Average,High Risk
+No,Yes,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+No,Yes,Yes,No,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,High,1,Average,Low Risk
+No,Yes,No,Yes,No,Yes,Yes,Low,2 or more,Poor,High Risk
+No,Yes,No,No,No,No,No,Low,0,Good,High Risk
+No,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Low,2 or more,Average,Medium Risk
+No,No,Yes,No,No,No,No,High,2 or more,Average,Low Risk
+No,Yes,No,No,No,Yes,Yes,Low,1,Poor,High Risk
+No,No,No,Yes,No,No,No,High,1,Poor,High Risk
+Yes,No,No,No,No,Yes,No,Moderate,2 or more,Poor,High Risk
+No,Yes,Yes,No,No,Yes,No,High,1,Average,Medium Risk
+No,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+Yes,Yes,No,No,Yes,No,Yes,High,1,Average,High Risk
+Yes,No,No,No,No,No,No,Low,0,Average,High Risk
+No,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,Yes,No,No,Yes,No,High,2 or more,Poor,High Risk
+No,Yes,Yes,No,Yes,No,Yes,Low,1,Good,High Risk
+Yes,No,Yes,Yes,No,Yes,No,Low,1,Good,High Risk
+No,No,Yes,Yes,No,Yes,Yes,Moderate,0,Poor,High Risk
+Yes,No,Yes,No,No,Yes,No,High,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+Yes,No,No,No,Yes,No,No,Moderate,0,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,High,1,Average,Low Risk
+No,Yes,No,No,No,No,Yes,Low,1,Average,Medium Risk
+No,No,No,No,Yes,No,No,Moderate,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,High,1,Average,Low Risk
+No,Yes,No,No,No,No,Yes,Low,0,Poor,High Risk
+No,No,No,No,No,Yes,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,Yes,Moderate,1,Poor,High Risk
+No,No,Yes,No,Yes,No,Yes,Low,1,Poor,High Risk
+No,No,Yes,No,Yes,No,No,Moderate,1,Good,Medium Risk
+No,Yes,Yes,Yes,No,No,No,Low,0,Average,High Risk
+Yes,No,No,Yes,No,Yes,No,Moderate,1,Poor,High Risk
+No,No,No,No,Yes,No,No,Moderate,1,Average,Low Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+No,No,Yes,No,Yes,No,Yes,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Low,0,Poor,High Risk
+No,Yes,No,No,No,No,No,Moderate,0,Good,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,Yes,Yes,No,No,Yes,No,Low,0,Average,High Risk
+No,Yes,Yes,No,No,No,Yes,Moderate,0,Average,High Risk
+Yes,No,No,No,No,No,Yes,Low,2 or more,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,Yes,No,No,Low,0,Poor,High Risk
+No,No,No,No,No,No,No,High,1,Good,Low Risk
+No,Yes,No,No,No,No,No,High,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Good,High Risk
+No,No,Yes,No,No,No,Yes,Low,1,Poor,High Risk
+Yes,Yes,No,No,No,No,Yes,Low,1,Good,Medium Risk
+No,No,No,No,No,Yes,No,Moderate,2 or more,Good,Low Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,0,Good,High Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,Yes,Yes,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+Yes,No,Yes,No,Yes,No,Yes,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Low,2 or more,Average,Low Risk
+Yes,No,No,No,No,No,No,Low,0,Average,High Risk
+Yes,No,Yes,No,Yes,No,No,Low,2 or more,Average,Medium Risk
+No,No,Yes,No,No,Yes,No,High,0,Good,High Risk
+No,No,No,No,No,No,No,High,1,Average,Low Risk
+No,No,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,Yes,Yes,No,Yes,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Low,2 or more,Average,Low Risk
+Yes,No,No,Yes,No,No,No,High,1,Average,Medium Risk
+No,No,No,No,No,Yes,No,Low,1,Good,Low Risk
+Yes,No,No,No,No,Yes,No,High,1,Average,Medium Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,No,Low,1,Poor,High Risk
+No,No,Yes,No,No,No,No,High,1,Poor,High Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,Yes,No,No,Yes,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,Yes,No,No,No,Low,0,Average,High Risk
+No,No,No,No,Yes,No,No,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,Yes,No,Yes,No,No,No,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,Yes,No,High,0,Good,High Risk
+No,Yes,No,No,No,No,No,Low,1,Average,Low Risk
+No,Yes,No,No,Yes,No,Yes,Low,0,Average,High Risk
+No,Yes,Yes,No,No,Yes,No,Low,1,Good,Medium Risk
+No,No,No,No,Yes,No,Yes,Low,1,Average,Medium Risk
+Yes,No,No,No,Yes,Yes,Yes,Low,0,Poor,High Risk
+No,No,No,No,No,No,No,High,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,2 or more,Average,Low Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Low,2 or more,Average,Low Risk
+No,No,No,No,Yes,No,No,Moderate,1,Average,Low Risk
+No,Yes,Yes,No,No,No,No,High,1,Average,Medium Risk
+No,Yes,No,Yes,No,No,No,Low,0,Good,High Risk
+Yes,Yes,No,Yes,No,No,No,Low,0,Average,High Risk
+No,No,Yes,No,No,Yes,No,Low,0,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,1,Good,Low Risk
+Yes,No,No,No,Yes,No,Yes,Low,2 or more,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,Yes,No,Low,1,Good,Medium Risk
+No,No,No,No,No,Yes,Yes,Moderate,1,Average,Medium Risk
+No,No,No,No,No,Yes,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,No,High,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,High,1,Average,Medium Risk
+No,No,Yes,No,No,No,No,Moderate,1,Average,Low Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+Yes,Yes,Yes,No,No,No,No,Low,2 or more,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,Yes,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Moderate,2 or more,Average,Medium Risk
+No,No,No,Yes,No,No,No,High,1,Average,Low Risk
+No,Yes,No,No,No,No,Yes,High,1,Average,Medium Risk
+No,No,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,0,Average,High Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,No,No,No,No,Yes,Moderate,1,Good,Low Risk
+Yes,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,High,1,Good,Medium Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Poor,High Risk
+No,No,No,No,Yes,No,Yes,Moderate,0,Poor,High Risk
+No,Yes,No,No,No,No,No,Moderate,1,Good,Low Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+No,No,No,No,Yes,No,Yes,Low,2 or more,Average,Medium Risk
+No,Yes,Yes,No,No,No,No,High,0,Good,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,1,Good,Medium Risk
+No,No,No,Yes,No,Yes,Yes,Moderate,2 or more,Good,Medium Risk
+Yes,No,No,No,No,Yes,Yes,Low,0,Poor,High Risk
+No,No,No,No,Yes,Yes,Yes,Moderate,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,No,High,0,Poor,High Risk
+No,Yes,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+Yes,Yes,No,No,No,No,No,High,2 or more,Good,Medium Risk
+No,Yes,Yes,No,Yes,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,No,Yes,Yes,Yes,No,Yes,Low,0,Average,High Risk
+Yes,No,No,No,No,Yes,No,Low,2 or more,Average,Medium Risk
+No,No,Yes,No,No,No,No,Moderate,1,Good,Low Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,Yes,No,No,No,Yes,Moderate,1,Good,Medium Risk
+Yes,No,No,Yes,No,No,No,Moderate,0,Average,High Risk
+Yes,No,Yes,No,Yes,Yes,No,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,Yes,No,Low,0,Average,High Risk
+No,No,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,1,Good,Low Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Average,Low Risk
+No,Yes,No,No,Yes,Yes,No,Low,2 or more,Good,Medium Risk
+No,No,No,No,No,No,Yes,Moderate,1,Good,Low Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,No,No,High,1,Poor,High Risk
+Yes,Yes,No,No,No,No,No,Low,1,Average,Medium Risk
+Yes,Yes,No,No,Yes,No,Yes,Low,1,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Low,1,Good,Medium Risk
+No,No,Yes,Yes,No,No,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,High,2 or more,Poor,High Risk
+Yes,Yes,No,No,Yes,No,Yes,Low,0,Average,High Risk
+No,No,No,No,No,No,No,High,1,Poor,High Risk
+No,No,No,No,No,No,No,High,0,Poor,High Risk
+Yes,No,No,Yes,No,No,No,Moderate,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,No,No,No,No,Yes,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,Yes,Low,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Low,0,Average,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,Yes,No,No,No,No,High,1,Good,Medium Risk
+No,Yes,Yes,No,Yes,No,No,Low,2 or more,Poor,High Risk
+Yes,No,No,No,No,No,No,High,1,Average,Low Risk
+No,Yes,No,No,No,No,No,Low,1,Good,Low Risk
+Yes,Yes,No,No,No,No,No,Low,1,Good,Medium Risk
+Yes,No,No,No,Yes,No,Yes,Low,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Poor,High Risk
+No,Yes,Yes,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,Yes,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,No,No,High,2 or more,Good,Low Risk
+No,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,Yes,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,No,No,Yes,No,No,High,0,Poor,High Risk
+Yes,No,No,No,Yes,No,No,Moderate,1,Average,Medium Risk
+No,Yes,Yes,No,No,No,Yes,Moderate,1,Average,Medium Risk
+Yes,No,No,No,Yes,No,No,Low,0,Good,High Risk
+Yes,No,Yes,No,No,No,No,High,2 or more,Poor,High Risk
+Yes,No,Yes,No,Yes,No,No,Moderate,1,Poor,High Risk
+Yes,Yes,No,No,No,No,Yes,Low,2 or more,Average,Medium Risk
+Yes,No,Yes,No,Yes,Yes,Yes,Low,1,Poor,High Risk
+No,Yes,No,No,No,No,No,High,1,Average,Low Risk
+No,No,No,No,No,Yes,No,Low,1,Good,Low Risk
+No,Yes,Yes,No,No,No,Yes,High,1,Average,Medium Risk
+No,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,Yes,No,No,No,No,Moderate,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+No,Yes,Yes,No,No,Yes,No,Moderate,2 or more,Poor,High Risk
+No,No,Yes,Yes,No,No,No,High,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,No,Moderate,1,Good,Medium Risk
+No,No,No,Yes,No,No,No,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,No,No,Low,0,Average,High Risk
+No,No,Yes,No,No,No,No,Low,0,Average,High Risk
+No,No,No,No,No,Yes,Yes,Low,1,Good,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+No,No,No,No,No,No,No,Low,2 or more,Poor,High Risk
+No,No,No,No,No,No,No,Low,1,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+No,No,Yes,No,No,Yes,No,Moderate,1,Poor,High Risk
+No,Yes,No,No,No,No,Yes,Moderate,0,Good,High Risk
+No,No,No,No,No,Yes,No,Low,1,Average,Low Risk
+No,No,Yes,No,No,No,No,Low,2 or more,Average,Low Risk
+No,No,Yes,No,Yes,No,No,High,0,Average,High Risk
+Yes,Yes,No,Yes,No,No,Yes,Low,1,Poor,High Risk
+Yes,No,No,No,No,No,No,High,1,Average,Low Risk
+No,No,No,No,No,No,No,High,0,Good,High Risk
+No,No,No,No,No,No,No,Moderate,0,Good,High Risk
+Yes,Yes,Yes,No,No,No,No,Low,2 or more,Good,Medium Risk
+Yes,No,No,No,No,Yes,No,High,1,Good,Medium Risk
+No,No,No,No,No,No,Yes,Moderate,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,0,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Average,Low Risk
+Yes,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,Yes,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,Yes,Yes,No,No,No,No,Low,1,Good,Medium Risk
+No,No,No,No,No,No,No,Moderate,1,Poor,High Risk
+No,No,Yes,Yes,No,Yes,No,High,2 or more,Poor,High Risk
+No,No,No,No,No,No,Yes,Low,2 or more,Average,Low Risk
+Yes,No,No,No,No,No,No,Low,1,Poor,High Risk
+Yes,No,Yes,Yes,No,No,No,Low,2 or more,Poor,High Risk
+Yes,No,No,No,No,No,Yes,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,Yes,No,Moderate,2 or more,Poor,High Risk
+No,No,Yes,No,No,No,No,High,0,Average,High Risk
+No,No,No,No,No,No,Yes,Low,1,Average,Low Risk
+No,Yes,No,Yes,No,Yes,No,High,0,Average,High Risk
+No,Yes,No,No,Yes,Yes,No,Low,2 or more,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,0,Average,High Risk
+No,No,No,No,No,No,Yes,Low,1,Poor,High Risk
+No,No,No,No,No,Yes,No,High,1,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,No,No,High,2 or more,Average,Low Risk
+Yes,No,Yes,Yes,No,No,No,Low,1,Average,Medium Risk
+No,No,No,Yes,No,No,No,Low,2 or more,Poor,High Risk
+Yes,Yes,Yes,No,No,No,No,High,0,Average,High Risk
+No,No,Yes,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,Yes,Yes,No,No,No,Low,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,0,Average,High Risk
+Yes,No,No,Yes,No,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,Yes,Low,1,Average,Low Risk
+No,Yes,No,No,No,No,No,Low,1,Average,Low Risk
+Yes,No,No,Yes,No,Yes,No,Low,1,Poor,High Risk
+No,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+No,Yes,No,No,No,No,No,High,0,Poor,High Risk
+No,Yes,Yes,No,No,No,Yes,High,0,Poor,High Risk
+No,No,Yes,No,No,No,No,Moderate,1,Good,Low Risk
+No,No,No,No,No,No,Yes,Low,0,Good,High Risk
+Yes,No,No,No,No,No,No,High,0,Poor,High Risk
+Yes,No,Yes,No,No,No,No,Moderate,1,Average,Medium Risk
+Yes,No,Yes,No,No,No,No,Low,1,Poor,High Risk
+No,No,No,No,Yes,Yes,No,High,1,Average,Medium Risk
+Yes,No,Yes,No,No,Yes,No,Moderate,1,Good,Medium Risk
+No,No,No,Yes,Yes,No,No,Moderate,1,Good,Medium Risk
+No,No,No,No,Yes,No,Yes,Moderate,1,Average,Medium Risk
+No,Yes,No,No,No,No,Yes,Low,1,Average,Medium Risk
+No,No,Yes,No,No,Yes,No,Low,1,Average,Medium Risk
+Yes,No,No,No,No,No,No,Moderate,1,Average,Low Risk
+Yes,No,No,No,No,Yes,No,Low,1,Good,Medium Risk
+No,Yes,No,No,No,Yes,No,Moderate,0,Good,High Risk
+No,Yes,No,No,No,Yes,No,Moderate,1,Average,Medium Risk
+No,No,Yes,Yes,No,No,No,Moderate,1,Average,Medium Risk
+No,No,No,No,No,No,No,Moderate,2 or more,Poor,High Risk
+Yes,No,No,No,No,No,Yes,Moderate,2 or more,Poor,High Risk
+No,No,No,No,No,No,Yes,High,1,Good,Low Risk
+No,No,Yes,Yes,No,Yes,No,Moderate,0,Average,High Risk
+No,Yes,No,No,No,No,No,Low,0,Average,High Risk
+Yes,No,No,No,No,No,No,Low,1,Average,Low Risk
+No,Yes,Yes,Yes,No,No,Yes,Low,1,Good,High Risk
+No,No,Yes,No,Yes,Yes,No,Low,0,Poor,High Risk
+Yes,No,No,No,No,No,No,Low,1,Good,Low Risk
+No,No,Yes,No,Yes,No,No,Low,0,Good,High Risk
+Yes,Yes,Yes,No,No,No,No,Moderate,2 or more,Good,Medium Risk
+No,Yes,Yes,No,No,No,No,High,0,Average,High Risk
+No,No,No,No,No,Yes,No,Low,2 or more,Poor,High Risk

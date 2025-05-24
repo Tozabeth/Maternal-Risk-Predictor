@@ -119,4 +119,7 @@ with b3:
 st.markdown("---")
 st.caption("🩺 *This is not medical advice. For serious symptoms, always consult a qualified health professional.*")
 
+st.markdown("---")
+st.markdown("© 2025 Created by Elizabeth")
+
 
